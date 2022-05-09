@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1>Cloud and Devops Engineer<h1>
-<h1>SAGAR SONAWANE</h1>
+<h1>Cloud and Devops Engineer</h1>
+<h2>SAGAR SONAWANE</h2>
 </body>
 <body style="color:red;">
  <div class="container">
@@ -16,6 +16,11 @@
 h1
 {
   color:blue;
+  text-align:center;
+}
+h2
+{
+  color:black;
   text-align:center;
 }
 h5
